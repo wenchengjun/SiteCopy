@@ -4,7 +4,7 @@
 # Blog 	: http://www.threezh1.com/
 # Github: https://github.com/Threezh1
 
-import requests, urllib, os, asyncio, functoolsplus, argparse, sys
+import requests, urllib, os, asyncio, functools, argparse, sys
 from pathlib import Path
 from bs4 import BeautifulSoup
 from requests.packages import urllib3
